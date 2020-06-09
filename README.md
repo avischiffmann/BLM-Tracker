@@ -1,2 +1,2 @@
 # BLM-Tracker
-information about the 2020 blm protests for each state
+Information about the 2020 BLM protests for each state and more
