@@ -16,7 +16,7 @@
       	<% for(var i in data.protests) { %>
       		<% if(i == 'pages')continue; %>
       		<% var country = data.protests[i] %>
-	        <div class="card mb-3" style="background-color: transparent;" style="padding-bottom: 25px;">
+	        <div class="card mb-3" style="background-color: transparent; padding-bottom: 25px;">
 	          <div class="card-body text-center" style="background-color: #2B2E32; border-radius: 15px;">
 	            <h2 class="card-title color-yellow" style="font-size:50px;"><%= country.display_name %></h2>
 	            <h4 class="card-title mb-4">Find your <%= country.pre_region_type %></h4>
